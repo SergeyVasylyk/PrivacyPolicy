@@ -1,7 +1,7 @@
 Privacy Policy
 
 
-"LadyBug GameDev Studio" ("developer") built the "Baby Paint" app as an Ad Supported app. 
+"LadyBug GameDev Studio" ("developer") built the app as an Ad Supported app. 
 This ("app") is provided by at no cost and is intended for use as is.
 
 This privacy policy is used to inform you regarding policies with the collection, use, and 
